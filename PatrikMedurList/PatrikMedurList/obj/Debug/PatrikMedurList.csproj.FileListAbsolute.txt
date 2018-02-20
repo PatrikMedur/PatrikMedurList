@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\bin\Debug\PatrikMedurList.exe.config
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\bin\Debug\PatrikMedurList.exe
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\bin\Debug\PatrikMedurList.pdb
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\obj\Debug\PatrikMedurList.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\obj\Debug\PatrikMedurList.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\obj\Debug\PatrikMedurList.exe
+C:\Users\Ucenik\source\repos\PatrikMedurList\PatrikMedurList\obj\Debug\PatrikMedurList.pdb
